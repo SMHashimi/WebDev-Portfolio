@@ -1,0 +1,33 @@
+.color-title {
+    font-size: 10px;
+    font-weight: normal;
+}
+
+h2[id = "red"] {
+    color: red;
+}
+
+h2[id = "green"] {
+    color: green;
+}
+
+#orange {
+    color: orange;
+}
+
+h2[id = "yellow"] {
+    color: yellow
+}
+
+* {
+    text-align: center;
+}
+
+#blue {
+    color: blue;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
