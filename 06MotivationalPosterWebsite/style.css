@@ -1,0 +1,23 @@
+html {
+    background-color: black;
+}
+
+#firstText {
+    color: white;
+    margin-left: 458px;
+    font-size: xxx-large;
+    margin-top: 10px;
+}
+
+img {
+    margin-left: 380px;
+    margin-top: 70px;
+    border: 5px solid white;
+}
+
+#secondtext {
+    margin-left: 550px;
+    font-size: large;
+    color: white;
+    margin-top: -29px;
+}
